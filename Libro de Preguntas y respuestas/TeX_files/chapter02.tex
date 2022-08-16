@@ -1,0 +1,191 @@
+\chapter{Respuestas}
+\section{Respuestas Guía 1}
+\subsection{Ejercicio 1}
+\begin{verbatim}
+	
+Escribir 'Ingrese un numero entero entre 1 y 499(incluyendo 1 y 499)'
+leer numero 
+Mientras  numero  <> trunc(numero) o (numero<1 o numero >499)
+	Escribir 'Ingrese un numero entero entre 1 y 499(incluyendo 1 y 499)'
+	leer numero
+FinMientras
+centena<-trunc(numero/100) mod 10
+decena <-trunc(numero/10) mod 10
+unidad <- trunc(numero/1) mod 10
+segun centena Hacer
+1:
+Escribir 'C' Sin Saltar
+2:
+Escribir 'CC' Sin Saltar
+3:
+Escribir 'CCC' Sin Saltar
+4:
+Escribir 'CD' Sin Saltar
+FinSegun
+Segun decena hacer
+
+1:
+Escribir 'X' Sin Saltar
+2:
+Escribir 'XX' Sin Saltar
+3:
+Escribir 'XXX' Sin Saltar
+4:
+Escribir 'XL' Sin Saltar
+5:
+Escribir 'L' Sin Saltar
+6:
+Escribir 'LX' Sin Saltar
+7:
+Escribir 'LXX' Sin Saltar
+9:
+Escribir 'XC' Sin Saltar
+FinSegun
+Segun unidad hacer
+1:
+Escribir 'I' Sin Saltar
+2:
+Escribir 'II' Sin Saltar
+3:
+Escribir 'III' Sin Saltar
+4:
+Escribir 'IV' Sin Saltar
+5:
+Escribir 'V' Sin Saltar
+6:
+Escribir 'VI' Sin Saltar
+7:
+Escribir 'VII' Sin Saltar
+9:
+Escribir 'IX' Sin Saltar
+FinSegun
+FinAlgoritmo
+\end{verbatim}
+\newpage
+\subsection{Ejercicio 2}
+\begin{verbatim}
+	Algoritmo Ej1_1_2
+	Escribir 'Ingrese una serie'
+	Leer Serie
+	Escribir 'Ingrese los capítulos que posee'
+	Leer Capitulos
+	Escribir 'Ingrese la duración de cada capítulo en minutos'
+	Leer Duración
+	dias<-trunc(Capitulos*Duración/(60*24))
+	horas<-trunc((Capitulos*Duración/(60*24)-dias)*24)
+	minutos<-trunc((((Capitulos*Duración/(60*24)-dias)*24)-horas)*60)
+	Escribir 'Te demorarías ',dias,' dias con ',horas,' horas y ',minutos
+	,' minutos en ver ',Serie
+	FinAlgoritmo
+	
+\end{verbatim}
+\newpage
+\section{Respuestas Guía 2}
+\subsection{Ejercicio 1}
+
+\begin{verbatim}
+	  GNU nano 4.8                                           ej1.sh                                                      #!/bin/bash
+	case $1 in
+	'Mercurio')
+	echo 'El diametro ecuatorial de Mercurio es de 4.878 km'
+	'Venus'|'venus'|'VENUS')
+	echo 'El diametro ecuatorial de Venus es de 12.100 km'
+	;;
+	'Tierra'|'tierra'|'TIERRA')
+	echo 'El diametro ecuatorial de la Tierra es de 12.756 km'
+	;;
+	'Marte'|'marte'|'MARTE')
+	echo 'El diametro ecuatorial de Marte es de 6.787 km'
+	;;
+	'Jupiter'|'jupiter'|'JUPITER')
+	echo 'El diametro ecuatorial de Jupiter es de 142.984 km'
+	;;
+	'Saturno'|'saturno'|'SATURNO')
+	echo 'el diametro ecuatorial de Saturno es de 120.536 km'
+	;;
+	'Urano'|'URANO'|'urano')
+	echo 'el diametro ecuatorial de Urano es de 51.108 km'
+	;;
+	'Neptuno'|'neptuno'|'NEPTUNO')
+	echo 'el diametro ecuatorial de Neptuno es de 49.538 km'
+	;;
+	esac
+	
+\end{verbatim}
+\newpage
+\subsection{Ejercicio 2}
+\begin{verbatim}
+	#!/bin/bash
+	echo 'Ingrese el número de dureza de la roca'
+	read numero
+	if [[ $numero -le 2 ]]
+	then
+	echo 'Roca muy blanda'
+	elif [[ $numero -le 3 ]]
+	then
+	echo 'Roca blanda'
+	elif [[ $numero -le 5 ]]
+	then
+	echo 'Roca Medio blanda'
+	elif [[ $numero -le 6 ]]
+	then
+	echo 'Roca Media dura'
+	elif [[ $numero -le 7 ]]
+	then
+	echo 'Roca Dura'
+	elif [[ $numero -le 10 ]]
+	then
+	echo 'Roca muy Dura'
+	else
+	echo 'No ha ingresado un número válido'
+	fi
+\end{verbatim}
+\newpage
+\section{Respuestas Guía 3}
+\subsection{Ejercicio 1}
+Se utiliza grep, y -n para indicar las lineas.\\
+\begin{verbatim}
+grep -n Chile volcano_db.csv > volcanochile.csv
+\end{verbatim}
+\subsection{Ejercicio 2}
+Se utiliza sort, -t"," para indicar el separador, y -k3 para indicar el orden alfabético y columna
+\begin{verbatim}
+	sort -t"," -k3 volcano_db.csv
+\end{verbatim}
+\newpage
+\section{Respuestas Guía 4}
+\subsection{Ejercicio 1}
+\lstinputlisting{./Matlab/guia4ej1.m}
+\newpage
+\subsection{Ejercicio 2}
+\lstinputlisting{./Matlab/guia4ej2.m}\newpage
+\section{Respuestas Guía 5}
+\subsection{Ejercicio 1}
+\lstinputlisting{./Matlab/guia5ej1.m}\newpage
+\subsection{Ejercicio 2}
+\lstinputlisting{./Matlab/guia5ej2.m}\newpage
+\section{Respuestas Guía 6}
+\subsection{Ejercicio 1}
+\lstinputlisting{./Matlab/fibo.m}\newpage
+\subsection{Ejercicio 2}
+\lstinputlisting{./Matlab/ordenar.m}\newpage
+\section{Respuestas Guía 7}
+\subsection{Ejercicio 1}
+\lstinputlisting{./Matlab/guia7ej1.m}\newpage
+\subsection{Ejercicio 2}
+\lstinputlisting{./Matlab/guia7ej2.m}\newpage
+\section{Respuestas Guía 8}
+\subsection{Ejercicio 1}
+\lstinputlisting{./Matlab/guia8ej1.m}\newpage
+\subsection{Ejercicio 2}
+\lstinputlisting{./Matlab/guia8ej2.m}\newpage
+\section{Respuestas Guía 9}
+\subsection{Ejercicio 1}
+\lstinputlisting{./Matlab/guia9ej1.m}\newpage
+\subsection{Ejercicio 2}
+\lstinputlisting{./Matlab/guia9ej2.m}\newpage
+\section{Respuestas Guía 10}
+\subsection{Ejercicio 1}
+\lstinputlisting{./Matlab/guia10ej1.m}\newpage
+\subsection{Ejercicio 2}
+\lstinputlisting{./Matlab/guia10ej2.m}\newpage

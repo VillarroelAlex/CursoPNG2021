@@ -1,0 +1,91 @@
+$2.870.000 Agronomía (Chillán)                                  
+$2.870.000 Agronomía                                                   
+$3.452.000 Antropología                                                
+$2.951.000 Arquitectura                                                
+$2.434.000 Artes Visuales                                              
+$3.437.000 Astronomía                                                  
+$1.998.000 Auditoría                                                   
+$1.998.000 Auditoría - Diurna (Los Ángeles)                            
+$1.943.000 Bachillerato en Humanidades                                 
+$3.851.000 Bioingeniería                                               
+$2.416.000 Biología                                                    
+$2.643.000 Biología Marina                                             
+$2.947.000 Bioquímica                                                  
+$3.373.000 Ciencias Físicas                                            
+$1.923.000 Ciencias Políticas y Administrativas                        
+$3.228.000 Derecho                                                     
+$3.228.000 Derecho (Chillán)                                           
+$1.775.000 Educación Básica                                            
+$1.708.000 Educación Diferencial                                       
+$1.708.000 Educación Diferencial (Los Ángeles)                         
+$1.775.000 Educación Parvularia                                        
+$1.775.000 Educación Básica (Los Ángeles)                              
+$2.525.000 Enfermería                                                  
+$2.525.000 Enfermería (Chillán)                                        
+$2.525.000 Enfermería (Los Ángeles)                                    
+$2.892.000 Fonoaudiología                                              
+$3.437.000 Geofísica                                                   
+$2.899.000 Geografía                                                   
+$2.951.000 Geología                                                    
+$2.816.000 Ingeniería Agroindustrial (Chillán)                         
+$3.167.000 Ingeniería Ambiental                                        
+$3.167.000 Ingeniería Ambiental (Chillán)                              
+$2.924.000 Ingeniería Civil Agrícola (Chillán)                         
+$3.287.000 Ingeniería Civil - Primer Año Común                         
+$3.287.000 Ingeniería Civil                                            
+$3.926.000 Ingeniería Civil Aeroespacial                               
+$4.160.000 Ingeniería Civil Biomédica                                  
+$3.287.000 Ingeniería Civil Eléctrica                                  
+$3.287.000 Ingeniería Civil Electrónica                                
+$3.287.000 Ingeniería Civil de Materiales                              
+$4.398.000 Ingeniería Civil de Minas                                   
+$3.926.000 Ingeniería Civil en Telecomunicaciones                      
+$3.287.000 Ingeniería Civil Industrial                                 
+$3.287.000 Ingeniería Civil Informática                                
+$3.287.000 Ingeniería Civil Matemática                                 
+$3.287.000 Ingeniería Civil Mecánica                                   
+$3.287.000 Ingeniería Civil Metalúrgica                                
+$3.287.000 Ingeniería Civil Química                                    
+$3.287.000 Ingeniería Comercial                                        
+$3.287.000 Ingeniería Comercial (Chillán)                              
+$3.287.000 Ingeniería Comercial (Los Ángeles)                          
+$3.228.000 Ingeniería en Biotecnología Marina y Acuicultura            
+$3.287.000 Ingeniería en Biotecnología Vegetal                         
+$3.287.000 Ingeniería en Biotecnología Vegetal (Los Ángeles)           
+$3.167.000 Ingeniería en Conservación de Recursos Naturales            
+$2.816.000 Ingeniería en Prevención de Riesgos (Los Ángeles)           
+$3.228.000 Ingeniería Estadística                                      
+$3.081.000 Ingeniería Forestal                                         
+$3.167.000 Ingeniería Geomática (Los Ángeles)                          
+$3.677.000 Kinesiología                                                
+$2.416.000 Licenciatura en Historia                                    
+$1.912.000 Licenciatura en Matemática                                  
+$1.977.000 Licenciatura en Química-Químico                             
+$5.071.000 Medicina                                                    
+$3.851.000 Medicina Veterinaria                                        
+$3.662.000 Medicina Veterinaria (Chillán)                              
+$1.977.000 Nutrición y Dietética                                       
+$2.481.000 Obstetricia y Puericultura                                  
+$5.071.000 Odontología                                                 
+$1.708.000 Pedagogía en Artes Plásticas                                
+$1.708.000 Pedagogía en Cs. Naturales y Biología                       
+$1.708.000 Pedagogía en Cs. Naturales y Biología (Los Ángeles)         
+$1.708.000 Pedagogía en Cs. Naturales y Física                         
+$1.708.000 Pedagogía en Cs. Naturales y Química                        
+$1.708.000 Pedagogía en Educación Física                               
+$1.708.000 Pedagogía en Educación Musical                              
+$1.708.000 Pedagogía en Español                                        
+$1.708.000 Pedagogía en Filosofía                                      
+$1.708.000 Pedagogía en Historia y Geografía                           
+$1.708.000 Pedagogía en Inglés                                         
+$1.708.000 Pedagogía en Matemática y Computación                       
+$1.708.000 Pedagogía en Matemática y Educación Tecnológica (Los Ángeles)        
+$2.643.000 Periodismo                                                  
+$2.765.000 Psicología                                                  
+$3.007.000 Química y Farmacia                                          
+$1.907.000 Químico Analista                                            
+$2.369.000 Sociología                                                  
+$3.677.000 Tecnología Médica                                           
+$1.943.000 Trabajo Social                                              
+$2.765.000 Traducción /Interpretación En Idiomas Extranjeros           
+

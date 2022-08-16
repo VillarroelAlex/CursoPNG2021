@@ -1,0 +1,15 @@
+\frametitle{Ejemplo}
+\begin{verbatim}
+	x=1:100;
+	y=1:100;
+	[X,Y]=meshgrid(x,y);
+	z=X.*Y;
+	contour(X,Y,z)
+	\end{verbatim}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.5\linewidth]{5}
+
+	\label{fig:5}
+\end{figure}
+
