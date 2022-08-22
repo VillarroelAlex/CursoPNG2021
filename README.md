@@ -11,5 +11,5 @@ En este repositorio puede encontrar:
 A la fecha de 2022, este curso sigue siendo dictado por Andrés Sepúlveda.<br>
 <br>
 
-<h1> GNU Bash<h1><br>
+<h1> GNU Bash</h1><br>
 Recomiendo, ver y estudiar la guia del profesor Matthew Miller, haciendo click <a href="https://github.com/VillarroelAlex/CursoPNG2021/raw/main/Guia_MMiller.pdf">aquí</a>
