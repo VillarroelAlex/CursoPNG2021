@@ -8,3 +8,4 @@ En este repositorio puede encontrar:
  <li>Matlab: Es un sistema de cómputo numérico que ofrece un entorno de desarrollo integrado (IDE) con un lenguaje de programación propio (lenguaje M). Está disponible para las plataformas Unix, Windows, macOS y GNU/Linux.(extraido de Wikipedia) </li>
 </ul>
  <u>Este curso se centra mayoritariamente en la utilización de Matlab, ya que en la carrera suele ser el más ocupado en conjunto con Python.</u>
+A la fecha de 2022, este curso sigue siendo dictado por Andrés Sepúlveda.
